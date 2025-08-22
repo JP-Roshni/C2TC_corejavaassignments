@@ -1,7 +1,7 @@
-package com.roshni.assignment;
+package com.roshni.assignment1.app;
 
-import com.roshni.assignment.employees.*;
-import com.roshni.assignment.utilities.EmployeeUtilities;
+import com.roshni.assignment1.employees.*;
+import com.roshni.assignment1.utilities.EmployeeUtilities;
 
 public class AssignmentMain {
     public static void main(String[] args) {

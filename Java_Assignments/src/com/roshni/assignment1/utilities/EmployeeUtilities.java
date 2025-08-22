@@ -1,6 +1,6 @@
-package com.roshni.assignment.utilities;
+package com.roshni.assignment1.utilities;
 
-import com.roshni.assignment.employees.Employee;
+import com.roshni.assignment1.employees.Employee;
 
 /**
  * Utility class with static methods for employees.
